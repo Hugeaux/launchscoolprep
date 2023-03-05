@@ -1,0 +1,24 @@
+substring = {
+  constructor: String,
+  type: Prototype,
+}
+
+create = {
+  constructor: Object,
+  type: Static,
+}
+
+fromCharCode = {
+  constructor: String,
+  type: Static,
+}
+
+slice = {
+  constructor: Array, String
+  type: Prototype,
+}
+
+toString = {
+  constructor: Object, Number, String, Array
+  type: Prototype,
+}

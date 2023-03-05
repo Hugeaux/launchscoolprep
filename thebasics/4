@@ -1,0 +1,1 @@
+Since the first parameter is a string, the number 10 is coerced to a string. '5' + '10' concatenates to 510
