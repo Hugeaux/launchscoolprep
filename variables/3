@@ -1,0 +1,1 @@
+This returns a Reference error. foo is defined within a block, so it isn't accessible in the global scope.

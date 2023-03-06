@@ -1,0 +1,13 @@
+variables names:
+
+multiply (global), left (local), right (local)
+product (local), left (local), right (local)
+product (local)
+getNumber (global), prompt (local)
+parseFloat (global), question (global), prompt (local)
+left (global), getNumber (global)
+right (global), getNumber (global)
+console (global), left (global), right (global), multiply (global) , left (global), right (global)
+
+(global)
+(local)

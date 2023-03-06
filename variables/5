@@ -1,0 +1,1 @@
+It will log 'bar'. foo is defined in the global scope, and is defined within the block again. This block assignment is only accessible in the block, so line 6 will log 'bar'

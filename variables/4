@@ -1,0 +1,1 @@
+All console.logs will return Victor as the name 3 times and will then encounter an error on line 6. Since NAME was declared a constant, it cannot be assigned a new value. 

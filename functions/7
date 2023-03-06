@@ -1,0 +1,7 @@
+Only one argument is passed to the function. I think qux will be used as a default value. So I think this will output:
+ 'Hello'
+ 'qux'
+
+ Actual solution:
+  'Hello'
+ undefined

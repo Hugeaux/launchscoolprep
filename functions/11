@@ -1,0 +1,2 @@
+No. On lines 1 and 2 left and right are parameters for the function multiply, making them local variables. On lines 10 and 11 they are global variables, as they are defined as on the global scope the be the result of the getNumber function.
+On line 12, ${left} and ${right} refer to the global variables defined on lines 10 and 11. Within ${multiply(left, right)}, left and right are local variables.

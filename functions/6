@@ -1,0 +1,10 @@
+function multiplyNumbers(num1, num2, num3) { // Lines 1-4 are the function declaration. Num1, num2, num3 are the parameters of the function.
+  let result = num1 * num2 * num3; 
+  return result; // result is the return value
+} //everything between the curly braces is the function body
+
+let product = multiplyNumbers(2, 3, 4); // The function is invoked by passing arguments to it here. 2, 3, 4 are arguments
+
+// The function name is multiplyNumbers
+
+// variable names in the program: multiplyNumbers, num1, num2, num3, result, product
