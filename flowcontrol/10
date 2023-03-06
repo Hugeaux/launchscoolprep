@@ -1,0 +1,11 @@
+It will return "foo is 3, bar is 42" every time since the parameters foo and bar are assigned undefined and null in the function expression
+
+WRONG
+
+This is only the case for show(); (i.e. when there are no arguments passed and the default param values are used)
+
+For the other cases
+
+show(5, 7);  // => foo is 5, bar is 7
+show(0, 0);  // => foo is 0, bar is 0
+show(4);     // => foo is 4, bar is 42

@@ -1,0 +1,5 @@
+Empty, since an empty array is passed as an argument. This evaluates to false.
+
+WRONG
+
+Not empty. The array is empty, but it isn't falsy.

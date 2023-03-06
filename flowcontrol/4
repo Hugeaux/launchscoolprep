@@ -1,0 +1,6 @@
+This logs Product2, as 113 is being passed as an argument to barCodeScanner. This matches case '113', so Product2 will be logged to the console.
+
+Full return (break is missing so function falls through):
+Product2
+Product3
+Product not found!
