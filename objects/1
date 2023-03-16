@@ -1,0 +1,4 @@
+In two ways:
+
+person.name
+person['name']

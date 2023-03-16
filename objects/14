@@ -1,0 +1,38 @@
+variables:
+foo
+howdy
+hello
+xyzzy
+greeting
+name
+
+object property names:
+a
+b
+c
+d
+0
+1
+2
+
+primitive values:
+a
+1
+b
+2
+c
+3, 4, 5
+d
+'Hi'
+'Grace'
+' '
+0
+1
+2
+
+objects: 
+function hello
+function xyzzy
+{ a: 1, b: 2, c: [3, 4, 5], d: {} }
+[3, 4, 5]
+{}

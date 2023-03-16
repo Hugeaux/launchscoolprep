@@ -1,0 +1,44 @@
+variables:
+bar
+arg1
+arg2
+foo
+qux
+result
+
+object property names:
+abc
+def
+ghi
+jkl
+mno
+pqr
+0
+1
+2
+3
+0
+1
+2
+
+primitive values:
+'Hello'
+abc
+def
+ghi
+jkl
+mno
+pqr
+1, 2, 3, 4, 5, 6
+0, 1, 2, 3
+0, 1 , 2
+null
+NaN
+'Victor'
+'Antonina'
+
+objects:
+function bar
+qux
+[1, 2, 3, [4, 5, 6]]
+[4, 5, 6]
