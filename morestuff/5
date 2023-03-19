@@ -1,0 +1,5 @@
+It takes a string, splits it by spaces and puts that in an array.  The array is then reversed.
+'hello world'
+[world, hello]
+[5, 4]
+The reversed array is then mapped to an array showing the length  of each  word

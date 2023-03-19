@@ -1,0 +1,1 @@
+It's accomodating your program for error scenarios. You can fail gracefully instead of breaking the entire  program.
